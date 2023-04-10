@@ -15,8 +15,7 @@ download npm packages
 
 ## Usage
 
-
-
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/117128880/230984811-b0635bcc-4a34-4eb1-ac72-cc90a82f81f6.png">
 
 ## License
 
